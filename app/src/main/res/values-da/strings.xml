@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Simple Noter</string>
+    <string name="app_launcher_name">Noter</string>
+    <string name="widget_config">Tak for at du har valgt Simple Noter.\nDu finder flere Simple Apps på siden SimpleMobileTools.com.</string>
+    <string name="cannot_share_empty_text">Kan ikke dele en tom tekst</string>
+    <string name="simple_note">Simpel Note</string>
+    <string name="new_note">Tilføj en ny note</string>
+    <string name="no_title">Navngiv din note</string>
+    <string name="title_taken">Navnet bruges allerede til en anden note</string>
+    <string name="open_note">Åbn note</string>
+    <string name="delete_note">Slet note</string>
+    <string name="delete_note_prompt_message">Er du sikker på at du vil slette noten \"%s\"?</string>
+    <string name="pick_a_note">Vælg note</string>
+    <string name="rename_note">Omdøb note</string>
+    <string name="general_note">Generel note</string>
+    <string name="create_new_note">Opret en ny note</string>
+    <string name="add_to_note">Føj til note</string>
+    <string name="unsaved_changes_warning">Du har ændringer der ikke er gemt. Hvad skal der ske med dem?</string>
+    <string name="note_shown_widget">Note vist i widget\'en:</string>
+    <string name="new_note_type">Ny type note:</string>
+    <string name="text_note">Tekstnote</string>
+
+    <!-- File notes -->
+    <string name="open_file">Åbn fil …</string>
+    <string name="export_as_file">Eksporter som fil</string>
+    <string name="file_too_large">Filen er for stor, den må højst fylde 1MB</string>
+    <string name="only_import_file_content">Importer kun filindholdet\n(ændring af filen vil ikke berøre noten)</string>
+    <string name="update_file_at_note">Opdater selve filen når noten ændres\n(noten slettes hvis filen bliver slettet eller flyttes til en anden placering)</string>
+    <string name="delete_file_itself">Slet også filen \"%s\"</string>
+    <string name="note_saved_successfully">Noten \"%s\" er gemt</string>
+    <string name="note_exported_successfully">Noten \"%s\" er eksporteret</string>
+    <string name="only_export_file_content">Eksporter kun filens indhold\n(ændring af noten påvirker ikke filen</string>
+
+    <!-- Settings -->
+    <string name="display_success_message">Vis en meddelelse når en fil er gemt</string>
+    <string name="links_and_emails_clickable">Gør links og mailadresser klikbare</string>
+    <string name="place_cursor_end">Placer markøren i slutningen af noten</string>
+    <string name="monospaced_font">Brug en monospatieret font</string>
+    <string name="show_keyboard">Vis tastatur fra start</string>
+    <string name="show_word_count">Vis antal ord</string>
+    <string name="alignment">Justering</string>
+    <string name="left">Venstre</string>
+    <string name="center">Centreret</string>
+    <string name="right">Højre</string>
+    <string name="widget_note">Note vist i widget</string>
+    <string name="show_note_picker">Vis en notevælger ved opstart</string>
+    <string name="autosave_notes">Autogem noter</string>
+    <string name="enable_line_wrap">Aktiver tekstombrydning</string>
+    <string name="use_incognito_mode">Anvend inkognito-tilstand til tastatur</string>
+    <string name="move_undone_checklist_items">Move undone checklist items at the top</string>
+
+    <!-- Checklists -->
+    <string name="checklist">Tjekliste</string>
+    <string name="add_new_checklist_item">Føj et nyt punkt til tjeklisten</string>
+    <string name="add_new_checklist_items">Føj nye punkter til tjeklisten</string>
+    <string name="checklist_is_empty">Tjeklisten er tom</string>
+
+    <!-- Import / Export -->
+    <string name="export_all_notes">Eksporter alle noter som filer</string>
+    <string name="import_notes">Importer flere filer som noter</string>
+    <string name="import_folder">Importer mappe</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">How can I change the widgets color?</string>
+    <string name="faq_1_text">In case you have only 1 active widget, you can either recreate it, or use the button in the app settings for customizing it. If you have multiple active widgets, the button in the app settings will not be available. As the app supports color customization per-widget, you will have to recreate the widget that you want to customize.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Notes Pro: To-do list organizer and planner</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Simple planner: Create notes, backup &amp; to-do lists with quick note reminder tool</string>
+    <string name="app_long_description">
+        ★ Need to take a quick note of something to buy, an address, or a startup idea? Then look no further as this is the simple organizer tool you\'ve been looking for : Simple Notes: To-do list organizer and planner! No complicated setup steps needed, just tap the screen and type in what you came for and create notes, quick lists, checklist or backup for any idea. With your simple personal notebook you can remember anything fast! Shopping for groceries, memorizing your thoughts and easier setting up reminders taking notes has never been easier ★
+
+        Simple notes planner is quick, simple to use organizer and remarkable planner and it will serve as an invaluable tool and companion, helping you to remember necessary piece of information!
+
+        Our reminder tool allows you to keep track of your duties,create daily checklist for items or ideas with unprecedented simplicity, notability and unrivaled time-saving value. Manage your schedule in a quick and simple manner.
+
+        This notebook reminder tool comes with autosave so you will not discard your changes by mistake. It also supports creating multiple independent plain text notes and lists very fast.
+
+        You can easily access the note and organize your to-do list in no time by using the customizable and resizable widget, which opens the app on tap.
+
+        It is user friendly and contains absolutely no ads or unnecessary permissions - no strings attached. It is fully opensource, provides customizable colors which can be adjusted with quick and fast tweaking.
+
+        <b>Simple Notes: To-do list organizer and planner</b> is the best item organizer and list planner you can use with no ads. If you need a high quality organizer for a quick and goodnotes, a reliable and user friendly reminder that is truly simple to use, download our app right now :) Have your own personal notebook in your pocket every day and have a backup planner so you will not have to worry about forgetting an important meeting or your shopping list :).
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Uden reklamer og unødvendige tilladelser. Den er helt igennem open source, og du kan selv bestemme farverne.
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Standalone website of Simple Notes Pro:</b>
+        https://www.simplemobiletools.com/notes
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

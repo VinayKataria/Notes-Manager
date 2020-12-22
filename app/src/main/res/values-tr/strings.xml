@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Basit Notlar</string>
+    <string name="app_launcher_name">Notlar</string>
+    <string name="widget_config">Basit Notlar\'ı kullandığınız için teşekkürler.\nDaha fazla basit uygulamalar için lütfen SimpleMobileTools.com adresini ziyaret edin.</string>
+    <string name="cannot_share_empty_text">Boş metin paylaşılamaz</string>
+    <string name="simple_note">Basit Not</string>
+    <string name="new_note">Yeni not ekle</string>
+    <string name="no_title">Lütfen notunuzu adlandırın</string>
+    <string name="title_taken">Bu başlığa sahip bir not zaten mevcut</string>
+    <string name="open_note">Notu aç</string>
+    <string name="delete_note">Notu sil</string>
+    <string name="delete_note_prompt_message">\"%s\" notunu silmek istediğinizden emin misiniz?</string>
+    <string name="pick_a_note">Not seç</string>
+    <string name="rename_note">Notu yeniden adlandır</string>
+    <string name="general_note">Genel not</string>
+    <string name="create_new_note">Yeni not oluştur</string>
+    <string name="add_to_note">Nota ekle</string>
+    <string name="unsaved_changes_warning">Kaydedilmemiş bazı değişiklikleriniz var. Onlarla ne yapmak istersiniz?</string>
+    <string name="note_shown_widget">Widget\'ta gösterilen not:</string>
+    <string name="new_note_type">Yeni not türü:</string>
+    <string name="text_note">Metin notu</string>
+
+    <!-- File notes -->
+    <string name="open_file">Dosya aç</string>
+    <string name="export_as_file">Dosya olarak aktar</string>
+    <string name="file_too_large">Dosya çok büyük, sınır 1MB</string>
+    <string name="only_import_file_content">Sadece dosya içeriğini içe aktar\n(dosyayı değiştirmek notu etkilemez)</string>
+    <string name="update_file_at_note">Not güncellenirken orijinal dosyayı da güncelle\n(dosya silinirse veya yol değişirse not silinir)</string>
+    <string name="delete_file_itself">\"%s\" dosyasını da sil</string>
+    <string name="note_saved_successfully">\"%s\" notu başarıyla kaydedildi</string>
+    <string name="note_exported_successfully">\"%s\" notu başarıyla dışa aktarıldı</string>
+    <string name="only_export_file_content">Sadece geçerli dosya içeriğini dışa aktar\n(notu değiştirmek dosyayı etkilemez)</string>
+
+    <!-- Settings -->
+    <string name="display_success_message">Başarıyla kaydedildi mesajlarını görüntüle</string>
+    <string name="links_and_emails_clickable">Bağlantıları ve e-postaları tıklanabilir yap</string>
+    <string name="place_cursor_end">İmleci notun sonuna getir</string>
+    <string name="monospaced_font">Sabit genişlikli yazı tipi kullan</string>
+    <string name="show_keyboard">Başlangıçta klavyeyi göster</string>
+    <string name="show_word_count">Kelime sayısını göster</string>
+    <string name="alignment">Hizalama</string>
+    <string name="left">Sola</string>
+    <string name="center">Ortaya</string>
+    <string name="right">Sağa</string>
+    <string name="widget_note">Widget\'ta kullanılan not</string>
+    <string name="show_note_picker">Başlangıçta bir not seçici göster</string>
+    <string name="autosave_notes">Notları otomatik kaydet</string>
+    <string name="enable_line_wrap">Sözcük kaydırmayı etkinleştir</string>
+    <string name="use_incognito_mode">Klavyelerin Gizli modunu kullan</string>
+    <string name="move_undone_checklist_items">Tamamlanmamış yapılacak listesi öğelerini en üste taşı</string>
+
+    <!-- Checklists -->
+    <string name="checklist">Yapılacak listesi</string>
+    <string name="add_new_checklist_item">Yeni bir yapılacak listesi öğesi ekle</string>
+    <string name="add_new_checklist_items">Yeni yapılacak listesi öğeleri ekle</string>
+    <string name="checklist_is_empty">Yapılacak listesi boş</string>
+
+    <!-- Import / Export -->
+    <string name="export_all_notes">Tüm notları dosya olarak dışa aktar</string>
+    <string name="import_notes">Birden çok dosyayı not olarak içe aktar</string>
+    <string name="import_folder">Klasörü içe aktar</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Widget\'ların rengini nasıl değiştirebilirim?</string>
+    <string name="faq_1_text">Yalnızca 1 etkin widget\'ınız varsa, yeniden oluşturabilir veya özelleştirmek için uygulama ayarlarındaki düğmeyi kullanabilirsiniz. Birden fazla etkin widget\'ınız varsa, uygulama ayarlarındaki düğme kullanılamaz. Uygulama, widget başına renk özelleştirmeyi desteklediğinden, özelleştirmek istediğiniz widget\'ı yeniden oluşturmanız gerekir.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Notes Pro: To-do list organizer and planner</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Simple planner: Create notes, backup &amp; to-do lists with quick note reminder tool</string>
+    <string name="app_long_description">
+        ★ Need to take a quick note of something to buy, an address, or a startup idea? Then look no further as this is the simple organizer tool you\'ve been looking for : Simple Notes: To-do list organizer and planner! No complicated setup steps needed, just tap the screen and type in what you came for and create notes, quick lists, checklist or backup for any idea. With your simple personal notebook you can remember anything fast! Shopping for groceries, memorizing your thoughts and easier setting up reminders taking notes has never been easier ★
+
+        Simple notes planner is quick, simple to use organizer and remarkable planner and it will serve as an invaluable tool and companion, helping you to remember necessary piece of information!
+
+        Our reminder tool allows you to keep track of your duties,create daily checklist for items or ideas with unprecedented simplicity, notability and unrivaled time-saving value. Manage your schedule in a quick and simple manner.
+
+        This notebook reminder tool comes with autosave so you will not discard your changes by mistake. It also supports creating multiple independent plain text notes and lists very fast.
+
+        You can easily access the note and organize your to-do list in no time by using the customizable and resizable widget, which opens the app on tap.
+
+        It is user friendly and contains absolutely no ads or unnecessary permissions - no strings attached. It is fully opensource, provides customizable colors which can be adjusted with quick and fast tweaking.
+
+        <b>Simple Notes: To-do list organizer and planner</b> is the best item organizer and list planner you can use with no ads. If you need a high quality organizer for a quick and goodnotes, a reliable and user friendly reminder that is truly simple to use, download our app right now :) Have your own personal notebook in your pocket every day and have a backup planner so you will not have to worry about forgetting an important meeting or your shopping list :).
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Reklam veya gereksiz izinler içermez. Tamamen açık kaynaktır, özelleştirilebilir renkler sunar.
+
+        <b>Basit Araçlar paketinin tamamını buradan inceleyin:</b>
+        https://www.simplemobiletools.com
+
+        <b>Basit Notlar Pro\'nun bağımsız web sitesi:</b>
+        https://www.simplemobiletools.com/notes
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

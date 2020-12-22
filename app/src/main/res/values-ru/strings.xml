@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+    <string name="app_launcher_name">Заметки</string>
+    <string name="widget_config">Благодарим вас за использование Simple Notes.\nБольше простых приложений вы можете найти на SimpleMobileTools.com.</string>
+    <string name="cannot_share_empty_text">Нельзя поделиться пустым текстом</string>
+    <string name="simple_note">Простая заметка</string>
+    <string name="new_note">Добавить новую заметку</string>
+    <string name="no_title">Пожалуйста, назовите заметку</string>
+    <string name="title_taken">Заметка с таким названием уже существует</string>
+    <string name="open_note">Открыть заметку</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="delete_note_prompt_message">Вы действительно хотите удалить заметку \"%s\"?</string>
+    <string name="pick_a_note">Выберите заметку</string>
+    <string name="rename_note">Переименовать заметку</string>
+    <string name="general_note">Общая заметка</string>
+    <string name="create_new_note">Новая заметка</string>
+    <string name="add_to_note">Добавить к заметке</string>
+    <string name="unsaved_changes_warning">Есть несохраненные изменения. Что вы хотите с ними сделать?</string>
+    <string name="note_shown_widget">Заметка, показываемая в виджете:</string>
+    <string name="new_note_type">Тип новой заметки:</string>
+    <string name="text_note">Текстовая заметка</string>
+
+    <!-- File notes -->
+    <string name="open_file">Открыть файл</string>
+    <string name="export_as_file">Экспортировать в файл</string>
+    <string name="file_too_large">Файл слишком велик, лимит 1МБ</string>
+    <string name="only_import_file_content">Только импортировать содержимое файла\n(изменение файла не изменит заметку)</string>
+    <string name="update_file_at_note">Обновлять содержимое файла при обновлении заметки\n(заметка удалится, если удалить файл или изменить путь к нему)</string>
+    <string name="delete_file_itself">Также удалить файл \"%s\"</string>
+    <string name="note_saved_successfully">Заметка \"%s\" сохранена</string>
+    <string name="note_exported_successfully">Заметка \"%s\" экспортирована</string>
+    <string name="only_export_file_content">Экспортировать только текущее содержимое файла\n(изменение заметки не затронет файл)</string>
+
+    <!-- Settings -->
+    <string name="display_success_message">Уведомлять, что файл успешно сохранен</string>
+    <string name="links_and_emails_clickable">Сделать ссылки и адреса электронной почты активными</string>
+    <string name="place_cursor_end">Помещать курсор в конец заметки</string>
+    <string name="monospaced_font">Использовать моноширинный шрифт</string>
+    <string name="show_keyboard">Показывать клавиатуру при запуске</string>
+    <string name="show_word_count">Отображать количество слов</string>
+    <string name="alignment">Выравнивание</string>
+    <string name="left">По левому краю</string>
+    <string name="center">По центру</string>
+    <string name="right">По правому краю</string>
+    <string name="widget_note">Заметка, отображаемая в виджете</string>
+    <string name="show_note_picker">Показывать список заметок при запуске</string>
+    <string name="autosave_notes">Автосохранение заметок</string>
+    <string name="enable_line_wrap">Переносить строки</string>
+    <string name="use_incognito_mode">Использовать режим инкогнито для клавиатур</string>
+    <string name="move_undone_checklist_items">Move undone checklist items at the top</string>
+
+    <!-- Checklists -->
+    <string name="checklist">Список</string>
+    <string name="add_new_checklist_item">Добавить позицию в список</string>
+    <string name="add_new_checklist_items">Добавить позиции в список</string>
+    <string name="checklist_is_empty">Список пуст</string>
+
+    <!-- Import / Export -->
+    <string name="export_all_notes">Экспортировать все заметки в файлы</string>
+    <string name="import_notes">Импортировать несколько файлов в заметки</string>
+    <string name="import_folder">Импортировать папку</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">How can I change the widgets color?</string>
+    <string name="faq_1_text">In case you have only 1 active widget, you can either recreate it, or use the button in the app settings for customizing it. If you have multiple active widgets, the button in the app settings will not be available. As the app supports color customization per-widget, you will have to recreate the widget that you want to customize.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Notes Pro: To-do list organizer and planner</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Simple planner: Create notes, backup &amp; to-do lists with quick note reminder tool</string>
+    <string name="app_long_description">
+        ★ Need to take a quick note of something to buy, an address, or a startup idea? Then look no further as this is the simple organizer tool you\'ve been looking for : Simple Notes: To-do list organizer and planner! No complicated setup steps needed, just tap the screen and type in what you came for and create notes, quick lists, checklist or backup for any idea. With your simple personal notebook you can remember anything fast! Shopping for groceries, memorizing your thoughts and easier setting up reminders taking notes has never been easier ★
+
+        Simple notes planner is quick, simple to use organizer and remarkable planner and it will serve as an invaluable tool and companion, helping you to remember necessary piece of information!
+
+        Our reminder tool allows you to keep track of your duties,create daily checklist for items or ideas with unprecedented simplicity, notability and unrivaled time-saving value. Manage your schedule in a quick and simple manner.
+
+        This notebook reminder tool comes with autosave so you will not discard your changes by mistake. It also supports creating multiple independent plain text notes and lists very fast.
+
+        You can easily access the note and organize your to-do list in no time by using the customizable and resizable widget, which opens the app on tap.
+
+        It is user friendly and contains absolutely no ads or unnecessary permissions - no strings attached. It is fully opensource, provides customizable colors which can be adjusted with quick and fast tweaking.
+
+        <b>Simple Notes: To-do list organizer and planner</b> is the best item organizer and list planner you can use with no ads. If you need a high quality organizer for a quick and goodnotes, a reliable and user friendly reminder that is truly simple to use, download our app right now :) Have your own personal notebook in your pocket every day and have a backup planner so you will not have to worry about forgetting an important meeting or your shopping list :).
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Без рекламы и излишних прав доступа. Полностью открытое ПО, а также со встроенной темной темой.
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Standalone website of Simple Notes Pro:</b>
+        https://www.simplemobiletools.com/notes
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

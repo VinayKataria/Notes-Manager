@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Jednoduché poznámky</string>
+    <string name="app_launcher_name">Poznámky</string>
+    <string name="widget_config">Ďakujeme za používanie Jednoduchých poznámok.\nPre viac jednoduchých apiek prosím navštívte SimpleMobileTools.com.</string>
+    <string name="cannot_share_empty_text">Nedá sa zdieľať prázdny text</string>
+    <string name="simple_note">Jednoduchá poznámka</string>
+    <string name="new_note">Pridať novú poznámku</string>
+    <string name="no_title">Prosím pomenujte poznámku</string>
+    <string name="title_taken">Poznámka s týmto názvom už existuje</string>
+    <string name="open_note">Otvoriť poznámku</string>
+    <string name="delete_note">Odstrániť poznámku</string>
+    <string name="delete_note_prompt_message">Ste si istý, že chcete odstrániť poznámku \"%s\"?</string>
+    <string name="pick_a_note">Zvoľte si poznámku</string>
+    <string name="rename_note">Premenovať poznámku</string>
+    <string name="general_note">Všeobecná poznámka</string>
+    <string name="create_new_note">Vytvoriť novú poznámku</string>
+    <string name="add_to_note">Pridať k poznámke</string>
+    <string name="unsaved_changes_warning">Máte nejaké neuložené zmeny. Čo s nimi chcete spraviť?</string>
+    <string name="note_shown_widget">Poznámka zobrazená vo widgete:</string>
+    <string name="new_note_type">Typ novej poznámky:</string>
+    <string name="text_note">Textová poznámka</string>
+
+    <!-- File notes -->
+    <string name="open_file">Otvoriť súbor</string>
+    <string name="export_as_file">Exportovať ako súbor</string>
+    <string name="file_too_large">Súbor je príliš veľký, maximálny limit je 1MB</string>
+    <string name="only_import_file_content">Iba importovať obsah súboru\n(úprava súboru nebude mať vplyv na poznámku)</string>
+    <string name="update_file_at_note">Aktualizovať samotný súbor po úprave poznámky\n(ak bude daný súbor presunutý, alebo vymazaný, bude vymazaná aj poznámka)</string>
+    <string name="delete_file_itself">Odstrániť aj súbor \"%s\"</string>
+    <string name="note_saved_successfully">Poznámka \"%s\" bola úspešne uložená</string>
+    <string name="note_exported_successfully">Poznámka \"%s\" bola úspešne exportovaná</string>
+    <string name="only_export_file_content">Iba exportovať súčasný obsah súboru\n(úprava poznámky nebude mať vplyv na súbor)</string>
+
+    <!-- Settings -->
+    <string name="display_success_message">Zobraziť správu o úspešnom uložení poznámky</string>
+    <string name="links_and_emails_clickable">Spraviť odkazy a emaily klikateľnými</string>
+    <string name="place_cursor_end">Umiestniť kurzor na koniec poznámky</string>
+    <string name="monospaced_font">Použiť písmo Monospace</string>
+    <string name="show_keyboard">Zobraziť klávesnicu po spustení</string>
+    <string name="show_word_count">Zobraziť počítadlo slov</string>
+    <string name="alignment">Zarovnanie</string>
+    <string name="left">Vľavo</string>
+    <string name="center">Uprostred</string>
+    <string name="right">Vpravo</string>
+    <string name="widget_note">Poznámka použitá vo widgete</string>
+    <string name="show_note_picker">Zobraziť zoznam poznámok po spustení</string>
+    <string name="autosave_notes">Automaticky ukladať poznámky</string>
+    <string name="enable_line_wrap">Povoliť zalamovanie riadkov</string>
+    <string name="use_incognito_mode">Použiť Inkognito mód klávesníc</string>
+    <string name="move_undone_checklist_items">Presunúť nesplnené položky zo zoznamu položiek na vrch</string>
+
+    <!-- Checklists -->
+    <string name="checklist">Zoznam položiek</string>
+    <string name="add_new_checklist_item">Pridať do zoznamu novú položku</string>
+    <string name="add_new_checklist_items">Pridať do zoznamu nové položky</string>
+    <string name="checklist_is_empty">Zoznam položiek je prázdny</string>
+
+    <!-- Import / Export -->
+    <string name="export_all_notes">Exportovať všetky poznámky ako súbory</string>
+    <string name="import_notes">Importovať viacero súborov ako poznámky</string>
+    <string name="import_folder">Importovať priečinok</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Ako viem zmeniť farby widgetu?</string>
+    <string name="faq_1_text">V prípade, že máte iba 1 aktívny widget, ho môžete buď znova vytvoriť, alebo použiť tlačidlo v nastaveniach apky na zmenu farby. Ak máte widgetov viacero, tlačidlo v nastaveniach apky zmizne. Keďže apka podporuje rôzne farby pre každý widget, budete musieť znovu vytvoriť ten widget, ktorého farby chcete zmeniť.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Jednoduché poznámky Pro: Plánovač a organizér</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Plánovač - vytvárajte poznámky, zálohy, zoznamy úloh použitím pripomienok</string>
+    <string name="app_long_description">
+        ★ Need to take a quick note of something to buy, an address, or a startup idea? Then look no further as this is the simple organizer tool you\'ve been looking for : Simple Notes: To-do list organizer and planner! No complicated setup steps needed, just tap the screen and type in what you came for and create notes, quick lists, checklist or backup for any idea. With your simple personal notebook you can remember anything fast! Shopping for groceries, memorizing your thoughts and easier setting up reminders taking notes has never been easier ★
+
+        Simple notes planner is quick, simple to use organizer and remarkable planner and it will serve as an invaluable tool and companion, helping you to remember necessary piece of information!
+
+        Our reminder tool allows you to keep track of your duties,create daily checklist for items or ideas with unprecedented simplicity, notability and unrivaled time-saving value. Manage your schedule in a quick and simple manner.
+
+        This notebook reminder tool comes with autosave so you will not discard your changes by mistake. It also supports creating multiple independent plain text notes and lists very fast.
+
+        You can easily access the note and organize your to-do list in no time by using the customizable and resizable widget, which opens the app on tap.
+
+        It is user friendly and contains absolutely no ads or unnecessary permissions - no strings attached. It is fully opensource, provides customizable colors which can be adjusted with quick and fast tweaking.
+
+        <b>Simple Notes: To-do list organizer and planner</b> is the best item organizer and list planner you can use with no ads. If you need a high quality organizer for a quick and goodnotes, a reliable and user friendly reminder that is truly simple to use, download our app right now :) Have your own personal notebook in your pocket every day and have a backup planner so you will not have to worry about forgetting an important meeting or your shopping list :).
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        <b>Pozrite si celú sadu aplikácií na:</b>
+        https://www.simplemobiletools.com
+
+        <b>Vlastná stránka Jednoduchých Poznámok Pro:</b>
+        https://www.simplemobiletools.com/notes
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

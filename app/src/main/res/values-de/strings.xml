@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Schlichte Notizen</string>
+    <string name="app_launcher_name">Notizen</string>
+    <string name="widget_config">Vielen Dank, dass du Simple Notes benutzt.\nWeitere einfache Apps findest du auf SimpleMobileTools.com.</string>
+    <string name="cannot_share_empty_text">Eine leere Notiz kann nicht geteilt werden.</string>
+    <string name="simple_note">Einfache Notiz</string>
+    <string name="new_note">Neue Notiz hinzufügen</string>
+    <string name="no_title">Bitte benenne deine Notiz</string>
+    <string name="title_taken">Es existiert bereits eine Notiz mit diesem Namen</string>
+    <string name="open_note">Notiz öffnen</string>
+    <string name="delete_note">Notiz löschen</string>
+    <string name="delete_note_prompt_message">Bist du sicher, dass du die Notiz \"%s\" löschen willst?</string>
+    <string name="pick_a_note">Notiz auswählen</string>
+    <string name="rename_note">Notiz umbenennen</string>
+    <string name="general_note">Hauptnotiz</string>
+    <string name="create_new_note">Neue Notiz erstellen</string>
+    <string name="add_to_note">Zu Notiz hinzufügen</string>
+    <string name="unsaved_changes_warning">Du hast ungespeicherte Notizen. Was soll mit ihnen geschehen?</string>
+    <string name="note_shown_widget">Im Widget angezeigte Notiz:</string>
+    <string name="new_note_type">Neue Notizart:</string>
+    <string name="text_note">Textnotiz</string>
+
+    <!-- File notes -->
+    <string name="open_file">Datei öffnen</string>
+    <string name="export_as_file">Als Datei exportieren</string>
+    <string name="file_too_large">Datei ist zu groß. Die maximale Größe beträgt 1 MB.</string>
+    <string name="only_import_file_content">Importiere nur den Dateiinhalt.\n(Änderungen an der Datei haben keine Auswirkungen auf die Notiz.)</string>
+    <string name="update_file_at_note">Übernehme Änderungen an der Notiz in die Datei\n(Notiz wird gelöscht, wenn die Datei gelöscht wird oder sich der Pfad ändert.)</string>
+    <string name="delete_file_itself">Lösche Datei \"%s\"</string>
+    <string name="note_saved_successfully">Notiz \"%s\" erfolgreich gespeichert</string>
+    <string name="note_exported_successfully">Notiz \"%s\" erfolgreich exportiert</string>
+    <string name="only_export_file_content">Nur den aktuellen Dateiinhalt exportieren\n(Das Verändern der Notiz wird nicht die Datei beeinflussen)</string>
+
+    <!-- Settings -->
+    <string name="display_success_message">Zeige Benachrichtigung bei erfolgreichem Speichern</string>
+    <string name="links_and_emails_clickable">Links und E-Mail-Adressen anklickbar</string>
+    <string name="place_cursor_end">Platziere Cursor am Ende der Notiz</string>
+    <string name="monospaced_font">Benutze Monospace Schrift</string>
+    <string name="show_keyboard">Zeige Tastatur beim Start</string>
+    <string name="show_word_count">Zeige Wortanzahl</string>
+    <string name="alignment">Ausrichtung</string>
+    <string name="left">Linksbündig</string>
+    <string name="center">Zentriert</string>
+    <string name="right">Rechtsbündig</string>
+    <string name="widget_note">Widget-Notiz</string>
+    <string name="show_note_picker">Zeige einen Notiz-Wähler beim Start</string>
+    <string name="autosave_notes">Notizen automatisch speichern</string>
+    <string name="enable_line_wrap">Zeilenumbruch aktivieren</string>
+    <string name="use_incognito_mode">Benutze den Inkognitomodus von Tastaturen</string>
+    <string name="move_undone_checklist_items">Verschiebe rückgängig gemachte Checklisteneinträge nach oben</string>
+
+    <!-- Checklists -->
+    <string name="checklist">Checkliste</string>
+    <string name="add_new_checklist_item">Einen neuen Checklisteneintrag hinzufügen</string>
+    <string name="add_new_checklist_items">Neue Checklisteneinträge hinzufügen</string>
+    <string name="checklist_is_empty">Die Checkliste ist leer</string>
+
+    <!-- Import / Export -->
+    <string name="export_all_notes">Alle Notizen als Dateien exportieren</string>
+    <string name="import_notes">Mehrere Dateien als Notizen importieren</string>
+    <string name="import_folder">Ordner importieren</string>
+
+    <!-- FAQ -->
+    <string name="faq_1_title">Wie kann ich die Farbe der Widgets ändern?</string>
+    <string name="faq_1_text">Wenn nur ein Widget aktiv ist, kann die Farbe über die Einstellungen unter dem Punkt Widgets angepasst werden, ansonsten muss es neu erstellt werden.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Notes Pro: To-do list organizer and planner</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Simple planner: Create notes, backup &amp; to-do lists with quick note reminder tool</string>
+    <string name="app_long_description">
+        ★ Need to take a quick note of something to buy, an address, or a startup idea? Then look no further as this is the simple organizer tool you\'ve been looking for : Simple Notes: To-do list organizer and planner! No complicated setup steps needed, just tap the screen and type in what you came for and create notes, quick lists, checklist or backup for any idea. With your simple personal notebook you can remember anything fast! Shopping for groceries, memorizing your thoughts and easier setting up reminders taking notes has never been easier ★
+
+        Simple notes planner is quick, simple to use organizer and remarkable planner and it will serve as an invaluable tool and companion, helping you to remember necessary piece of information!
+
+        Our reminder tool allows you to keep track of your duties,create daily checklist for items or ideas with unprecedented simplicity, notability and unrivaled time-saving value. Manage your schedule in a quick and simple manner.
+
+        This notebook reminder tool comes with autosave so you will not discard your changes by mistake. It also supports creating multiple independent plain text notes and lists very fast.
+
+        You can easily access the note and organize your to-do list in no time by using the customizable and resizable widget, which opens the app on tap.
+
+        It is user friendly and contains absolutely no ads or unnecessary permissions - no strings attached. It is fully opensource, provides customizable colors which can be adjusted with quick and fast tweaking.
+
+        <b>Simple Notes: To-do list organizer and planner</b> is the best item organizer and list planner you can use with no ads. If you need a high quality organizer for a quick and goodnotes, a reliable and user friendly reminder that is truly simple to use, download our app right now :) Have your own personal notebook in your pocket every day and have a backup planner so you will not have to worry about forgetting an important meeting or your shopping list :).
+
+        It comes with material design and dark theme by default, provides great user experience for easy usage. The lack of internet access gives you more privacy, security and stability than other apps.
+
+        Beinhaltet keine Werbung oder unnötige Berechtigungen. Sie ist komplett Open Source, alle verwendeten Farben sind anpassbar.
+
+        <b>Check out the full suite of Simple Tools here:</b>
+        https://www.simplemobiletools.com
+
+        <b>Standalone website of Simple Notes Pro:</b>
+        https://www.simplemobiletools.com/notes
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
